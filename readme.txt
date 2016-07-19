@@ -4,3 +4,5 @@ Git has a mutable index called stage
 Git tracks have changes
 Add a branch && simple
 Create a brancd called feature1
+
+add merge
